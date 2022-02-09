@@ -10,6 +10,6 @@ Technologies Used:
 - Disease.sh API
 - custom useFetch hook
 
-# [Click for Live Preview](dsfs)
+# [Click for Live Preview](https://kiran-covid-tracker.surge.sh/)
 
 ![Website Preview](./preview.png)
